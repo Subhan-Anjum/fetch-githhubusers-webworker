@@ -13,13 +13,13 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Subhan-Anjum/fetch-githhubusers-webworker.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd <project-directory>
+    cd fetch-githhubusers-webworker
     ```
 
 3. Open the `index.html` file in a web browser.
