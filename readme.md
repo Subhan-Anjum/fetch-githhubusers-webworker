@@ -53,11 +53,6 @@ Using Web Workers for fetching data can provide significant performance improvem
 2. Handling CORS Issues:
     Another challenge was dealing with Cross-Origin Resource Sharing (CORS) issues when fetching data from external APIs. This was addressed by either configuring the server to allow CORS or using a proxy server to bypass CORS restrictions.
 
-## References and Resources
-MDN Web Docs - Web Workers
-Web Workers API: Speed Up Your Web Apps with Web Workers
-Using Web Workers to Speed Up Your JavaScript Applications
-Handling CORS Issues: A Complete Guide
 
 ## Contributors
 
